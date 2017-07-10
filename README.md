@@ -1,15 +1,12 @@
-# Intelligent Object
+# Search ALgorithms (BFS, DFS, Greedy, A*, Hill Climbing)
 
-## Overview
+## How to run:
 
-The key aim of this project is to apply multimedia data processing and analysis techniques to a real world example. Given a video of an object with labelled markers, it was required to capture the objects’ movements, add externals objects and animations as well as interactivity between them.
-
+The program will run from the command line with the following arguments:
+* A single letter representing the algorithm to search with, out of B for BFS, D for DFS, G for Greedy, A for A* and H for hill climbing.
+* A file name of a file to open for the search details. This file will contain the following:
+![Example scenes of the input video.](https://github.com/mahsaBayat/IntelligentObject/blob/master/InputVideo.png)
 
 ## Languages
 
-*	Processing
-* Java
-
-## Example Scenes from the Input Video
-
-![Example scenes of the input video.](https://github.com/mahsaBayat/IntelligentObject/blob/master/InputVideo.png)
+*	Python
